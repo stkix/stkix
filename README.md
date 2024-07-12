@@ -10,7 +10,12 @@
 
 ## 🌱 Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,python,docker,mysql,sqlite,c,cs,cpp,cmake,fortran,git,github,linux,ubuntu,vscode,unity,ros" />
-<br>
+<be>
+
+<div align="left"> 
+  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=stkix&theme=vue-dark&layout=compact" />
+  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stkix&theme=vue-dark&layout=compact" />
+</div>
 
 <!---
 stkix/stkix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
