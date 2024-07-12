@@ -9,7 +9,7 @@
 - ⚡ Fun fact: ...
 
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,python,docker,c,cs,cpp,cmake,fortran,git,github,linux,vscode," />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,python,docker,mysql,sqlite,c,cs,cpp,cmake,fortran,git,github,linux,ubuntu,vscode," />
 <br>
 
 <!---
