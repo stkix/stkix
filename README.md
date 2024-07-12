@@ -8,6 +8,10 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+## 🌱 Skills
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,next,figma,python,fastapi,go,docker,terraform,aws,gcp" />
+<br>
+
 <!---
 stkix/stkix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
