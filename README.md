@@ -12,7 +12,6 @@
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,python,docker,mysql,sqlite,c,cs,cpp,cmake,fortran,git,github,linux,ubuntu,vscode,unity,ros" />
 <be>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stkix">
 
 <!-- div align="left" --> 
   <!-- img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=stkix&theme=vue-dark&layout=compact" / -->
