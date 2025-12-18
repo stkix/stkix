@@ -3,10 +3,7 @@
 - 👋 Hi, I’m @stkix, a student in Nagoya University!
 - 👀 I’m interested in Robotics, Networks, machine learning, etc...(Travel and Photography)
 - 🌱 I’m currently learning ROS, C++, Python, MySQL, etc...
-- 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me [Twitter-@sugar_kix_](https://twitter.com/sugar_kix_)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 ## 🌱 Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,python,docker,mysql,sqlite,c,cs,cpp,cmake,fortran,git,github,linux,ubuntu,vscode,unity,ros" />
