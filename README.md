@@ -6,7 +6,7 @@
 - 📫 How to reach me [Twitter-@sugar_kix_](https://twitter.com/sugar_kix_)
 
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,python,docker,mysql,sqlite,c,cs,cpp,cmake,fortran,git,github,linux,ubuntu,vscode,unity,ros" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,python,docker,mysql,c,cpp,fortran,git,github,linux,ubuntu,vscode,unity,ros" />
 <be>
 
 
