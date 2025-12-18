@@ -2,11 +2,11 @@
 
 - 👋 Hi, I’m @stkix, a student in Nagoya University!
 - 👀 I’m interested in Robotics, Networks, machine learning, etc...(Travel and Photography)
-- 🌱 I’m currently learning ROS, C++, Python, MySQL, etc...
+- 🌱 I’m currently learning ROS, C++, Python, Linux, etc...
 - 📫 How to reach me [Twitter-@sugar_kix_](https://twitter.com/sugar_kix_)
 
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,python,docker,mysql,c,cpp,fortran,git,github,linux,ubuntu,vscode,unity,ros" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,python,docker,c,cpp,fortran,git,github,linux,ubuntu,unity,ros" />
 <be>
 
 
